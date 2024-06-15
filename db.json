@@ -1,0 +1,10 @@
+{
+  "sales": [
+    { "id": 1, "product": "Product 1", "quantity": 10, "price": 100 },
+    { "id": 2, "product": "Product 2", "quantity": 5, "price": 200 }
+  ],
+  "orders": [
+    { "id": 1, "customer": "Customer 1", "date": "2024-06-15", "total": 500 },
+    { "id": 2, "customer": "Customer 2", "date": "2024-06-16", "total": 300 }
+  ]
+}
